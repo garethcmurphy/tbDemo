@@ -1,23 +1,30 @@
 #HSLIDE
 ## Show page
+* hello page
 
 #HSLIDE
 ## Item object
+* Construct obj
 
 #HSLIDE
 ## Show item
+* display with labels
 
 #HSLIDE
-## Load items from CSV
+## Load items from CSV or array
+* construct
 
 #HSLIDE
 ## Show list of items
+* show list with names as links
 
 #HSLIDE
 ## Add item form
+* new teim form, add to static list
 
 #HSLIDE
 ## Edit item form
+* Edit item in a list
 
 #HSLIDE
 ## Load items to DB
