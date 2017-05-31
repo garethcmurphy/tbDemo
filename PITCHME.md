@@ -1,59 +1,59 @@
 #HSLIDE
-Show page
+## Show page
 
 #HSLIDE
-Item object
+## Item object
 
 #HSLIDE
-Show item
+## Show item
 
 #HSLIDE
-Load items from CSV
+## Load items from CSV
 
 #HSLIDE
-Show list of items
+## Show list of items
 
 #HSLIDE
-Add item form
+## Add item form
 
 #HSLIDE
-Edit item form
+## Edit item form
 
 #HSLIDE
-Load items to DB
+## Load items to DB
 
 #HSLIDE
-Get items from DB
+## Get items from DB
 
 #HSLIDE
-Save item to DB
+## Save item to DB
 
 #HSLIDE
-Get item as JSON
+## Get item as JSON
 
 #HSLIDE
-Show item (js)
+##Show item (js)
 
 #HSLIDE
-Get items json
+## Get items json
 
 #HSLIDE
-Show items (js)
+## Show items (js)
 
 #HSLIDE
-Add item (js)
+## Add item (js)
 
 #HSLIDE
-Edit item (js)
+## Edit item (js)
 
 #HSLIDE
-Edit items (js)
+## Edit items (js)
 
 #HSLIDE
-Alternative client - command line
+## Alternative client - command line
 
 #HSLIDE
-Alternative client - desktop app
+## Alternative client - desktop app
 
 #HSLIDE
-TEST: Simulating with local storage
+## TEST: Simulating with local storage
