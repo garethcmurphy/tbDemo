@@ -1,6 +1,6 @@
 # tbDemo
 
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/tbDemo)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/tbDemo/test)
 
 ## Preview (when running)
 
