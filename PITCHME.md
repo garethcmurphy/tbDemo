@@ -1,10 +1,30 @@
 #HSLIDE
+## Title Slide
+Terry Brady
+
+https://github.com/terrywbrady/info
+
+#HSLIDE
 ## Show page
-* hello page
+Show page with header, footer, title
+
+#VSLIDE
+## Code Sample
+```
+Sample Code
+```
+
+#VSLIDE
+## Sample Link
+
+#VSLIDE
+## Screen Shot
 
 #HSLIDE
 ## Item object
-* Construct obj
+* id
+* name
+* email
 
 #VSLIDE
 ## Code Sample
@@ -21,7 +41,7 @@ Sample Code
 
 #HSLIDE
 ## Show item
-* display with labels
+* display fields with labels
 
 #VSLIDE
 ## Code Sample
@@ -36,8 +56,8 @@ Sample Code
 ## Screen Shot
 
 #HSLIDE
-## Load items from CSV or array
-* construct
+## Load items from array
+* construct 3 items in array
 
 #VSLIDE
 ## Code Sample
@@ -53,7 +73,7 @@ Sample Code
 
 #HSLIDE
 ## Show list of items
-* show list with names as links
+* show names in a table with id values
 
 #VSLIDE
 ## Code Sample
@@ -62,7 +82,7 @@ Sample Code
 ```
 
 #VSLIDE
-## Sample Link
+## Sample Link 
 
 #VSLIDE
 ## Screen Shot
@@ -70,6 +90,7 @@ Sample Code
 #HSLIDE
 ## Add item form
 * new teim form, add to static list
+* labels and names
 
 #VSLIDE
 ## Code Sample
