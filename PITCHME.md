@@ -14,8 +14,9 @@ Show page with header, footer, title
 +++?code=Pages/01_SamplePage.php
 +++?code=Pages/header.php
 +++?code=Pages/demo.css
-@[1]
-@[2-4]
+@[1-8]
+@[9-15]
+@[16-24]
 +++?code=Pages/demo.js
 +++?image=DemoScreenshots/01_SamplePage.png
 
