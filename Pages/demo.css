@@ -18,3 +18,9 @@ body {
     padding: 20px;
     background-color: #EEEEEE;
 }
+
+label {
+    font-weight: bold;
+    width: 200px;
+    display: inline-block;
+}

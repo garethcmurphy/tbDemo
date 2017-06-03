@@ -9,16 +9,13 @@ https://github.com/terrywbrady/info
 ## Show page
 Show page with header, footer, title
 
-[SamplePage](https://tb-demo-terrywbradyc9.c9users.io/SamplePage.php)
+[Demo Page](https://tb-demo-terrywbradyc9.c9users.io/Pages/01_SamplePage.php)
 
-+++?code=SamplePage.php
-+++?code=header.php
-+++?code=demo.css
-+++?code=demo.js
-+++?image=DemoScreenshots/SamplePage.png
-
-+++
-## Screen Shot
++++?code=Pages/01_SamplePage.php
++++?code=Pages/header.php
++++?code=Pages/demo.css
++++?code=Pages/demo.js
++++?image=DemoScreenshots/01_SamplePage.png
 
 ---
 ## Item object
@@ -26,28 +23,15 @@ Show page with header, footer, title
 * name
 * email
 
-+++
-## Code Sample
-```
-Sample Code
-```
-
-+++
-## Sample Link
-
-+++
-## Screen Shot
-
++++?code=Pages/02_Object.php
 
 ---
 ## Show item
 * display fields with labels
 
-+++
-## Code Sample
-```
-Sample Code
-```
+[Demo Page](https://tb-demo-terrywbradyc9.c9users.io/Pages/03_ShowObject.php)
+
++++?code=Pages/03_ShowObject.php
 
 +++
 ## Sample Link

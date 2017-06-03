@@ -10,5 +10,3 @@
         <script type="text/javascript" src="demo.js"></script>
     </header>
     <body>
-        <h1>Demo: <?php echo basename(__FILE__)?></h1>
-        <div id="main">
