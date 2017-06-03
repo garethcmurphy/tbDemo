@@ -15,7 +15,7 @@ Show page with header, footer, title
 +++?code=header.php
 +++?code=demo.css
 +++?code=demo.js
-+++?img=DemoScreenshots/SamplePage.png
++++?image=DemoScreenshots/SamplePage.png
 
 +++
 ## Screen Shot
