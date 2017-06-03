@@ -7,4 +7,4 @@ gatoken : UA-89672351-2
 theme-override : PITCHME.css
 
 
-background-size: auto;
+background-size: contain;
