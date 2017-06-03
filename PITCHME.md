@@ -4,7 +4,7 @@ Terry Brady
 
 https://github.com/terrywbrady/info
 
----?gist=7b8d5258626dcc60ea84584ddc4f5567
+---?code=hello.php
 
 ---
 ## Show page
