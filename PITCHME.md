@@ -9,20 +9,13 @@ https://github.com/terrywbrady/info
 ## Show page
 Show page with header, footer, title
 
-+++?code=hello.php
+[SamplePage](https://tb-demo-terrywbradyc9.c9users.io/SamplePage.php)
+
++++?code=SamplePage.php
 +++?code=header.php
 +++?code=demo.css
 +++?code=demo.js
-
-
-+++
-## Code Sample
-```
-Sample Code
-```
-
-+++
-## Sample Link
++++?img=DemoScreenshots/SamplePage.png
 
 +++
 ## Screen Shot

@@ -1,6 +1,5 @@
 h1 {
     border-bottom: thin solid blue;
-    padding: 5px;
 }
 
 footer {
@@ -13,4 +12,9 @@ footer {
 body {
     margin: 20px;
     font-family: Verdana;
+}
+
+#main {
+    padding: 20px;
+    background-color: #EEEEEE;
 }
