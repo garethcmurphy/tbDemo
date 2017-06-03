@@ -1,0 +1,16 @@
+h1 {
+    border-bottom: thin solid blue;
+    padding: 5px;
+}
+
+footer {
+    border-top: thin solid blue; 
+    text-align: right;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+body {
+    margin: 20px;
+    font-family: Verdana;
+}

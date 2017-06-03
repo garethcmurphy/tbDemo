@@ -4,11 +4,16 @@ Terry Brady
 
 https://github.com/terrywbrady/info
 
----?code=hello.php
 
 ---
 ## Show page
 Show page with header, footer, title
+
++++?code=hello.php
++++?code=header.php
++++?code=demo.css
++++?code=demo.js
+
 
 +++
 ## Code Sample

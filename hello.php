@@ -1,8 +1,5 @@
-<html>
-    <header></header>
-    <body>
-        <h1>Demo</h1>
-        <hr/>
-        
-    </body>
-</html>
+<?php include 'header.php'?>
+<div>
+    Content goes here
+</div>
+<?php include 'footer.php'?>
