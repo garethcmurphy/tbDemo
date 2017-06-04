@@ -9,8 +9,7 @@
   <link rel="stylesheet" type="text/css" 
     href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.css">
   </link>
-        
-  <!-- CSS and JS-->
+  
   <link rel="stylesheet" type="text/css" href="demo.css"/>
   <script type="text/javascript" src="demo.js"></script>
 </header>

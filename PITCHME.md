@@ -13,8 +13,8 @@ Show page with header, footer, title
 
 +++?code=Pages/01_SamplePage.php
 +++?code=Pages/header.php
-@[3-6](JQuery resouces)
-@[8-10](Demo app resources)
+@[3-11](JQuery resouces)
+@[13-14](Demo app resources)
 +++?code=Pages/demo.css
 @[1-10](CSS block 1)
 @[12-20](CSS block 2)
