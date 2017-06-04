@@ -1,3 +1,5 @@
+// <![CDATA[
+<html>
 <header>
   <script	
     src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
@@ -12,3 +14,5 @@
   <link rel="stylesheet" type="text/css" href="demo.css"/>
   <script type="text/javascript" src="demo.js"></script>
 </header>
+<body>
+// ]]>
