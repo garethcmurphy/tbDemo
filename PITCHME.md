@@ -14,9 +14,9 @@ Show page with header, footer, title
 +++?code=Pages/01_SamplePage.php
 +++?code=Pages/header.php
 +++?code=Pages/demo.css
-@[1-8]
-@[9-15]
-@[16-24]
+@[1-10]
+@[12-20]
+@[22-30]
 +++?code=Pages/demo.js
 +++?image=DemoScreenshots/01_SamplePage.png
 
@@ -35,6 +35,8 @@ Display fields with labels
 [Demo Page](https://tb-demo-terrywbradyc9.c9users.io/Pages/03_ShowObject.php)
 
 +++?code=Pages/03_ShowObject.php
+@[2]
+@[4-17]
 
 ---
 ## Load items from array
