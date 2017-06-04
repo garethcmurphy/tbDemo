@@ -12,7 +12,7 @@ Show page with header, footer, title
 [Demo Page](https://tb-demo-terrywbradyc9.c9users.io/Pages/01_SamplePage.php)
 
 +++?code=Pages/01_SamplePage.php
-+++?code=Pages/header_escaped.php
++++?code=Pages/header_cdata.php
 @[3-11](JQuery resouces)
 @[13-14](Demo app resources)
 +++?code=Pages/demo.css
