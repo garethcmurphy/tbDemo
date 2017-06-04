@@ -37,7 +37,7 @@ Display fields with labels
 [Demo Page](https://tb-demo-terrywbradyc9.c9users.io/Pages/03_ShowObject.php)
 
 +++?code=Pages/03_ShowObject.php
-@[2](Include Object Init)
+@[2-2](Include Object Init)
 @[4-17](Display object)
 
 ---
