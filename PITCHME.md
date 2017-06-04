@@ -13,6 +13,8 @@ Show page with header, footer, title
 
 +++?code=Pages/01_SamplePage.php
 +++?code=Pages/header.php
+@[3-6]
+@[8-10]
 +++?code=Pages/demo.css
 @[1-10]
 @[12-20]
