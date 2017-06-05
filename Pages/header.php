@@ -1,3 +1,4 @@
+// <![CDATA[
 <html>
 <header>
   <script	
@@ -14,3 +15,4 @@
   <script type="text/javascript" src="demo.js"></script>
 </header>
 <body>
+// ]]>
