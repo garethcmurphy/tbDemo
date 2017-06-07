@@ -1,4 +1,3 @@
-// <![CDATA[
 <?php include 'header.php'?>
 <?php include '02_Object.php'?>
 <h1>Demo: <?php echo basename(__FILE__)?></h1>
@@ -17,4 +16,3 @@
   </div>
 </div>
 <?php include 'footer.php'?>
-// ]]>
