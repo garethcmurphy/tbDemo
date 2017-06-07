@@ -20,7 +20,7 @@ Show page with header, footer, title
 @[12-20](CSS block 2)
 @[22-30](CSS block 3)
 +++?code=Pages/demo.js
-+++?image=DemoScreenshots/01_SamplePage.png&size=contain
++++?image=DemoScreenshots/01_SamplePage.png
 
 ---
 ## Item object
@@ -30,8 +30,7 @@ Show page with header, footer, title
 
 +++?code=Pages/02_Object.php&lang=php
 +++?image=DemoScreenshots/wideImage.png
-+++?image=DemoScreenshots/wideImage.png&size=contain
-
++++?image=DemoScreenshots/wideImage.png
 ---
 ## Show item
 Display fields with labels
