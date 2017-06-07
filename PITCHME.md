@@ -29,6 +29,8 @@ Show page with header, footer, title
 * email
 
 +++?code=Pages/02_Object.php&lang=php
++++?image=DemoScreenshots/wideImage.png
++++?image=DemoScreenshots/wideImage.png&size=contain
 
 ---
 ## Show item
