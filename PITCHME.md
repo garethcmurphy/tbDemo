@@ -40,6 +40,7 @@ Display fields with labels
 +++?code=Pages/03_ShowObject.php&lang=php
 @[2](Include Object Init)
 @[5](Call Object Display)
++++?image=DemoScreenshots/Demo03.png
 
 ---
 ## Load items from array
