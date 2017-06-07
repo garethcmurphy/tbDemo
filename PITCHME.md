@@ -20,7 +20,7 @@ Show page with header, footer, title
 @[12-20](CSS block 2)
 @[22-30](CSS block 3)
 +++?code=Pages/demo.js
-+++?image=DemoScreenshots/01_SamplePage.png&size=contain 70%
++++?image=DemoScreenshots/01_SamplePage.png&size=contain
 
 ---
 ## Item object
