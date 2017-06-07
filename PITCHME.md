@@ -29,17 +29,17 @@ Show page with header, footer, title
 * email
 
 +++?code=Pages/02_Object.php&lang=php
-+++?image=DemoScreenshots/wideImage.png
-+++?image=DemoScreenshots/wideImage.png
 ---
 ## Show item
 Display fields with labels
 
 [Demo Page](https://tb-demo-terrywbradyc9.c9users.io/Pages/03_ShowObject.php)
 
++++?code=Pages/03_Object.php&lang=php
+@[8-23](Function to display an object)
 +++?code=Pages/03_ShowObject.php&lang=php
 @[2](Include Object Init)
-@[4-17](Display object)
+@[5](Call Object Display)
 
 ---
 ## Load items from array
