@@ -13,8 +13,8 @@ Show page with header, footer, title
 
 +++?code=Pages/01_SamplePage.php&lang=php
 +++?code=Pages/header.php&lang=php
-@[4-12](JQuery resouces)
-@[14-15](Demo app resources)
+@[3-11](JQuery resouces)
+@[13-14](Demo app resources)
 +++?code=Pages/demo.css
 @[1-10](CSS block 1)
 @[12-20](CSS block 2)
@@ -37,8 +37,8 @@ Display fields with labels
 [Demo Page](https://tb-demo-terrywbradyc9.c9users.io/Pages/03_ShowObject.php)
 
 +++?code=Pages/03_ShowObject.php&lang=php
-@[3](Include Object Init)
-@[5-18](Display object)
+@[2](Include Object Init)
+@[4-17](Display object)
 
 ---
 ## Load items from array
