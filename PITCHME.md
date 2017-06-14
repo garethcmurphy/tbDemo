@@ -1,5 +1,9 @@
 ---
-## Issue: CRLF copy issues in Firefox
+## Issue: CRLF copy issues 
+* Firefox - fail
+* Chrome
+* IE
+* Safari
 
 ---
 ## Code in pre
