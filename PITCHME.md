@@ -1,9 +1,9 @@
 ---
 ## Issue: CRLF copy issues 
-* Firefox - fail
-* Chrome
-* IE
-* Safari
+* Firefox - fails except in pre elem
+* Chrome  - succeeds
+* IE      - fails except in pre elem
+* Safari  - succeeds
 
 ---
 ## Code in pre
