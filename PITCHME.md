@@ -1,9 +1,14 @@
 ---
 ## Issue: CRLF copy issues 
-* Firefox - fails except in pre elem
-* Chrome  - succeeds
-* IE      - fails except in pre elem
-* Safari  - succeeds
+* Problem: Copy code from slides and paste into a text editor/text area
+* CRLF is lost in the process
+
+---
+## Behavior varies by browser
+* Firefox (Win/Mac)   - fails except in pre elem
+* IE      (Win)      - fails except in pre elem
+* Chrome  (Win/Mac)  - succeeds
+* Safari  (Mac)      - succeeds
 
 ---
 ## Code in pre
